@@ -1,0 +1,13 @@
+p {
+background-color: pink;
+}
+
+body{
+background-image: url("images/baana.jfif")
+}
+
+.header {
+  background-color: #F9F9F9;
+  text-align: center;
+  padding: 20px;
+}
